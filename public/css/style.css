@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+}
+
+#nav {
+    padding: 4px;
+    background-color: black;
+}
+
+#home #box{
+    height: 200px;
+    background-color: rgb(206, 220, 220);
+}
